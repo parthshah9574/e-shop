@@ -1,3 +1,7 @@
+Faker.js (https://fakerjs.dev/): A library to create fake data, So you don't have to create JSON file manually.
+
+<!-- //////////////////////////////////////////////////// -->
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
